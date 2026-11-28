@@ -13,7 +13,7 @@
   <rect width="769" height="190" class="bg" />
 
   <!-- Header -->
-  <text x="20" y="28" class="header-text">🎃 1,021 contributions in the last year</text>
+  <text x="20" y="28" class="header-text">🎃 1,119 contributions in the last year</text>
 
   <!-- Month Labels -->
   <text x="50" y="42" class="label-text">Nov</text>
@@ -38,16 +38,16 @@
   <rect x="50" y="63" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-30</title>
   </rect>
-  <rect x="50" y="76" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="50" y="76" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-07</title>
   </rect>
-  <rect x="50" y="89" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="50" y="89" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-14</title>
   </rect>
-  <rect x="50" y="102" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="50" y="102" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-21</title>
   </rect>
-  <rect x="50" y="115" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="50" y="115" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-28</title>
   </rect>
   <rect x="50" y="128" width="10" height="10" fill="#161B22" class="cell">
@@ -194,16 +194,16 @@
   <rect x="141" y="102" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-24</title>
   </rect>
-  <rect x="141" y="115" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="141" y="115" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-01</title>
   </rect>
-  <rect x="141" y="128" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="141" y="128" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-08</title>
   </rect>
   <rect x="154" y="50" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-15</title>
   </rect>
-  <rect x="154" y="63" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="154" y="63" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-22</title>
   </rect>
   <rect x="154" y="76" width="10" height="10" fill="#161B22" class="cell">
@@ -353,16 +353,16 @@
   <rect x="245" y="63" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-25</title>
   </rect>
-  <rect x="245" y="76" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="245" y="76" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-02</title>
   </rect>
-  <rect x="245" y="89" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="245" y="89" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-09</title>
   </rect>
-  <rect x="245" y="102" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="245" y="102" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-16</title>
   </rect>
-  <rect x="245" y="115" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="245" y="115" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-23</title>
   </rect>
   <rect x="245" y="128" width="10" height="10" fill="#161B22" class="cell">
@@ -512,16 +512,16 @@
   <rect x="336" y="115" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-26</title>
   </rect>
-  <rect x="336" y="128" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="336" y="128" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-03</title>
   </rect>
-  <rect x="349" y="50" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="349" y="50" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-10</title>
   </rect>
-  <rect x="349" y="63" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="349" y="63" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-17</title>
   </rect>
-  <rect x="349" y="76" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="349" y="76" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-24</title>
   </rect>
   <rect x="349" y="89" width="10" height="10" fill="#161B22" class="cell">
@@ -671,16 +671,16 @@
   <rect x="440" y="76" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-27</title>
   </rect>
-  <rect x="440" y="89" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="440" y="89" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-04</title>
   </rect>
-  <rect x="440" y="102" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="440" y="102" width="10" height="10" fill="#8C3B0D" class="cell">
     <title>0 contributions on 2025-12-11</title>
   </rect>
-  <rect x="440" y="115" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="440" y="115" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-18</title>
   </rect>
-  <rect x="440" y="128" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="440" y="128" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-25</title>
   </rect>
   <rect x="453" y="50" width="10" height="10" fill="#161B22" class="cell">
@@ -830,16 +830,16 @@
   <rect x="531" y="128" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-28</title>
   </rect>
-  <rect x="544" y="50" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="544" y="50" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-05</title>
   </rect>
-  <rect x="544" y="63" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="544" y="63" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-12</title>
   </rect>
-  <rect x="544" y="76" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="544" y="76" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-19</title>
   </rect>
-  <rect x="544" y="89" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="544" y="89" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-26</title>
   </rect>
   <rect x="544" y="102" width="10" height="10" fill="#161B22" class="cell">
@@ -983,19 +983,19 @@
   <rect x="635" y="63" width="10" height="10" fill="#FF9A3C" class="cell">
     <title>0 contributions on 2026-11-20</title>
   </rect>
-  <rect x="635" y="76" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="635" y="76" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2026-11-27</title>
   </rect>
   <rect x="635" y="89" width="10" height="10" fill="#161B22" class="cell">
     <title>0 contributions on 2025-11-29</title>
   </rect>
-  <rect x="635" y="102" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="635" y="102" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-06</title>
   </rect>
-  <rect x="635" y="115" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="635" y="115" width="10" height="10" fill="#8C3B0D" class="cell">
     <title>0 contributions on 2025-12-13</title>
   </rect>
-  <rect x="635" y="128" width="10" height="10" fill="#161B22" class="cell">
+  <rect x="635" y="128" width="10" height="10" fill="#4A210F" class="cell">
     <title>0 contributions on 2025-12-20</title>
   </rect>
   <rect x="648" y="50" width="10" height="10" fill="#161B22" class="cell">
@@ -1141,6 +1141,9 @@
   </rect>
   <rect x="726" y="115" width="10" height="10" fill="#FF9A3C" class="cell">
     <title>0 contributions on 2026-11-21</title>
+  </rect>
+  <rect x="726" y="128" width="10" height="10" fill="#4A210F" class="cell">
+    <title>0 contributions on 2026-11-28</title>
   </rect>
 
   <!-- Legend -->
